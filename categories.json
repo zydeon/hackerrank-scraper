@@ -1,0 +1,648 @@
+[
+	{
+		"Name": "Tutorials",
+		"Slug": "tutorials",
+		"children": [
+			{
+				"Name": "30 Days of Code",
+				"Slug": "30-days-of-code",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Algorithms",
+		"Slug": "algorithms",
+		"children": [
+			{
+				"Name": "Warmup",
+				"Slug": "warmup",
+				"children": null
+			},
+			{
+				"Name": "Implementation",
+				"Slug": "implementation",
+				"children": null
+			},
+			{
+				"Name": "Strings",
+				"Slug": "strings",
+				"children": null
+			},
+			{
+				"Name": "Sorting",
+				"Slug": "arrays-and-sorting",
+				"children": null
+			},
+			{
+				"Name": "Search",
+				"Slug": "search",
+				"children": null
+			},
+			{
+				"Name": "Graph Theory",
+				"Slug": "graph-theory",
+				"children": null
+			},
+			{
+				"Name": "Greedy",
+				"Slug": "greedy",
+				"children": null
+			},
+			{
+				"Name": "Dynamic Programming",
+				"Slug": "dynamic-programming",
+				"children": null
+			},
+			{
+				"Name": "Bit Manipulation",
+				"Slug": "bit-manipulation",
+				"children": null
+			},
+			{
+				"Name": "Game Theory",
+				"Slug": "game-theory",
+				"children": null
+			},
+			{
+				"Name": "NP Complete",
+				"Slug": "np-complete-problems",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Data Structures",
+		"Slug": "data-structures",
+		"children": [
+			{
+				"Name": "Arrays \u0026 Hashes",
+				"Slug": "arrays",
+				"children": null
+			},
+			{
+				"Name": "Linked Lists",
+				"Slug": "linked-lists",
+				"children": null
+			},
+			{
+				"Name": "Trees",
+				"Slug": "trees",
+				"children": null
+			},
+			{
+				"Name": "Balanced Trees",
+				"Slug": "balanced-trees",
+				"children": null
+			},
+			{
+				"Name": "Stacks",
+				"Slug": "stacks",
+				"children": null
+			},
+			{
+				"Name": "Queues",
+				"Slug": "queues",
+				"children": null
+			},
+			{
+				"Name": "Heap",
+				"Slug": "heap",
+				"children": null
+			},
+			{
+				"Name": "Disjoint Set",
+				"Slug": "disjoint-set",
+				"children": null
+			},
+			{
+				"Name": "Multiple Choice",
+				"Slug": "multiple-choice",
+				"children": null
+			},
+			{
+				"Name": "Trie",
+				"Slug": "trie",
+				"children": null
+			},
+			{
+				"Name": "Advanced",
+				"Slug": "data-structures",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Mathematics",
+		"Slug": "mathematics",
+		"children": [
+			{
+				"Name": "Fundamentals",
+				"Slug": "fundamentals",
+				"children": null
+			},
+			{
+				"Name": "Number Theory",
+				"Slug": "number-theory",
+				"children": null
+			},
+			{
+				"Name": "Combinatorics",
+				"Slug": "combinatorics",
+				"children": null
+			},
+			{
+				"Name": "Summations and Algebra",
+				"Slug": "summations-and-algebra",
+				"children": null
+			},
+			{
+				"Name": "Geometry",
+				"Slug": "geometry",
+				"children": null
+			},
+			{
+				"Name": "Probability",
+				"Slug": "probability",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Artificial Intelligence",
+		"Slug": "ai",
+		"children": [
+			{
+				"Name": "Bot Building",
+				"Slug": "introduction",
+				"children": null
+			},
+			{
+				"Name": "A* Search",
+				"Slug": "astar-search",
+				"children": null
+			},
+			{
+				"Name": "Alpha Beta Pruning",
+				"Slug": "alpha-beta-pruning",
+				"children": null
+			},
+			{
+				"Name": "Combinatorial Search",
+				"Slug": "combinatorial-search-theory",
+				"children": null
+			},
+			{
+				"Name": "Games",
+				"Slug": "richman-games",
+				"children": null
+			},
+			{
+				"Name": "Statistics and Machine Learning",
+				"Slug": "machine-learning",
+				"children": null
+			},
+			{
+				"Name": "Digital Image Analysis",
+				"Slug": "image-analysis",
+				"children": null
+			},
+			{
+				"Name": "Natural Language Processing",
+				"Slug": "nlp",
+				"children": null
+			},
+			{
+				"Name": "Linear Algebra Foundations",
+				"Slug": "linear-algebra-foundations",
+				"children": null
+			},
+			{
+				"Name": "Probability \u0026 Statistics - Foundations",
+				"Slug": "statistics-foundations",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "C++",
+		"Slug": "cpp",
+		"children": [
+			{
+				"Name": "Bot Building",
+				"Slug": "introduction",
+				"children": null
+			},
+			{
+				"Name": "Strings",
+				"Slug": "cpp-strings",
+				"children": null
+			},
+			{
+				"Name": "Classes",
+				"Slug": "classes",
+				"children": null
+			},
+			{
+				"Name": "STL",
+				"Slug": "stl",
+				"children": null
+			},
+			{
+				"Name": "Inheritance",
+				"Slug": "inheritance",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Java",
+		"Slug": "java",
+		"children": [
+			{
+				"Name": "Introduction",
+				"Slug": "java-introduction",
+				"children": null
+			},
+			{
+				"Name": "Strings",
+				"Slug": "java-strings",
+				"children": null
+			},
+			{
+				"Name": "BigNumber",
+				"Slug": "bignumber",
+				"children": null
+			},
+			{
+				"Name": "Collections",
+				"Slug": "collections",
+				"children": null
+			},
+			{
+				"Name": "Object Oriented Programming",
+				"Slug": "oop",
+				"children": null
+			},
+			{
+				"Name": "Exception Handling",
+				"Slug": "handling-exceptions",
+				"children": null
+			},
+			{
+				"Name": "Advanced",
+				"Slug": "java-advanced",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Python",
+		"Slug": "python",
+		"children": [
+			{
+				"Name": "Introduction",
+				"Slug": "py-introduction",
+				"children": null
+			},
+			{
+				"Name": "Data Types",
+				"Slug": "data-types",
+				"children": null
+			},
+			{
+				"Name": "Strings",
+				"Slug": "py-strings",
+				"children": null
+			},
+			{
+				"Name": "Sets",
+				"Slug": "py-sets",
+				"children": null
+			},
+			{
+				"Name": "Math",
+				"Slug": "py-math",
+				"children": null
+			},
+			{
+				"Name": "Itertools",
+				"Slug": "py-itertools",
+				"children": null
+			},
+			{
+				"Name": "Collections",
+				"Slug": "py-collections",
+				"children": null
+			},
+			{
+				"Name": "Date and Time",
+				"Slug": "py-date-time",
+				"children": null
+			},
+			{
+				"Name": "Built-Ins",
+				"Slug": "py-built-ins",
+				"children": null
+			},
+			{
+				"Name": "Errors and Exceptions",
+				"Slug": "errors-exceptions",
+				"children": null
+			},
+			{
+				"Name": "Classes",
+				"Slug": "py-classes",
+				"children": null
+			},
+			{
+				"Name": "Python Functionals",
+				"Slug": "py-functionals",
+				"children": null
+			},
+			{
+				"Name": "Regex and Parsing",
+				"Slug": "py-regex",
+				"children": null
+			},
+			{
+				"Name": "XML",
+				"Slug": "xml",
+				"children": null
+			},
+			{
+				"Name": "Closures and Decorators",
+				"Slug": "closures-and-decorators",
+				"children": null
+			},
+			{
+				"Name": "Numpy",
+				"Slug": "numpy",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Ruby",
+		"Slug": "ruby",
+		"children": [
+			{
+				"Name": "Introduction",
+				"Slug": "ruby-tutorials",
+				"children": null
+			},
+			{
+				"Name": "Control Structures",
+				"Slug": "control-structures",
+				"children": null
+			},
+			{
+				"Name": "Arrays \u0026 Hashes",
+				"Slug": "arrays",
+				"children": null
+			},
+			{
+				"Name": "Enumerables",
+				"Slug": "ruby-enumerables",
+				"children": null
+			},
+			{
+				"Name": "Methods",
+				"Slug": "ruby-methods",
+				"children": null
+			},
+			{
+				"Name": "Ruby Strings",
+				"Slug": "ruby-strings",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "SQL",
+		"Slug": "sql",
+		"children": [
+			{
+				"Name": "Basic Select",
+				"Slug": "select",
+				"children": null
+			},
+			{
+				"Name": "Advanced Select",
+				"Slug": "advanced-select",
+				"children": null
+			},
+			{
+				"Name": "Aggregation",
+				"Slug": "aggregation",
+				"children": null
+			},
+			{
+				"Name": "Basic Join",
+				"Slug": "join",
+				"children": null
+			},
+			{
+				"Name": "Advanced Join",
+				"Slug": "advanced-join",
+				"children": null
+			},
+			{
+				"Name": "Alternative Queries",
+				"Slug": "alternative-queries",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Databases",
+		"Slug": "databases",
+		"children": [
+			{
+				"Name": "Relational Algebra",
+				"Slug": "relational-algebra",
+				"children": null
+			},
+			{
+				"Name": "Indexes",
+				"Slug": "indexes",
+				"children": null
+			},
+			{
+				"Name": "OLAP",
+				"Slug": "olap",
+				"children": null
+			},
+			{
+				"Name": "Set and Algebra",
+				"Slug": "set-and-algebra",
+				"children": null
+			},
+			{
+				"Name": "NoSQL - XML, MapReduce",
+				"Slug": "xpath-queries",
+				"children": null
+			},
+			{
+				"Name": "Database Normalization",
+				"Slug": "database-normalization",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Distributed Systems",
+		"Slug": "distributed-systems",
+		"children": [
+			{
+				"Name": "Multiple Choice",
+				"Slug": "distributed-mcq",
+				"children": null
+			},
+			{
+				"Name": "Client Server",
+				"Slug": "client-server",
+				"children": null
+			},
+			{
+				"Name": "MapReduce Basics",
+				"Slug": "mapreduce-basics",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Linux Shell",
+		"Slug": "shell",
+		"children": [
+			{
+				"Name": "Bash",
+				"Slug": "bash",
+				"children": null
+			},
+			{
+				"Name": "Text Processing",
+				"Slug": "textpro",
+				"children": null
+			},
+			{
+				"Name": "Arrays in Bash",
+				"Slug": "arrays-in-bash",
+				"children": null
+			},
+			{
+				"Name": "Grep Sed Awk",
+				"Slug": "grep-sed-awk",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Functional Programming",
+		"Slug": "fp",
+		"children": [
+			{
+				"Name": "Introduction",
+				"Slug": "intro",
+				"children": null
+			},
+			{
+				"Name": "Recursion",
+				"Slug": "recursion",
+				"children": null
+			},
+			{
+				"Name": "Functional Structures",
+				"Slug": "ds",
+				"children": null
+			},
+			{
+				"Name": "Memoization and DP",
+				"Slug": "dp",
+				"children": null
+			},
+			{
+				"Name": "Persistent Structures",
+				"Slug": "persistent-ds",
+				"children": null
+			},
+			{
+				"Name": "Ad Hoc",
+				"Slug": "misc",
+				"children": null
+			},
+			{
+				"Name": "Parsers",
+				"Slug": "parsers",
+				"children": null
+			},
+			{
+				"Name": "Interpreter and Compilers",
+				"Slug": "compilers",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Regex",
+		"Slug": "regex",
+		"children": [
+			{
+				"Name": "Introduction",
+				"Slug": "re-introduction",
+				"children": null
+			},
+			{
+				"Name": "Character Class",
+				"Slug": "re-character-class",
+				"children": null
+			},
+			{
+				"Name": "Repetitions",
+				"Slug": "re-repetitions",
+				"children": null
+			},
+			{
+				"Name": "Grouping and Capturing",
+				"Slug": "grouping-and-capturing",
+				"children": null
+			},
+			{
+				"Name": "Backreferences",
+				"Slug": "backreferences",
+				"children": null
+			},
+			{
+				"Name": "Assertions",
+				"Slug": "assertions",
+				"children": null
+			},
+			{
+				"Name": "Applications",
+				"Slug": "re-applications",
+				"children": null
+			}
+		]
+	},
+	{
+		"Name": "Security",
+		"Slug": "security",
+		"children": [
+			{
+				"Name": "Functions",
+				"Slug": "functions",
+				"children": null
+			},
+			{
+				"Name": "Terminology and Concepts",
+				"Slug": "concepts",
+				"children": null
+			},
+			{
+				"Name": "Cryptography",
+				"Slug": "cryptography",
+				"children": null
+			}
+		]
+	}
+]
